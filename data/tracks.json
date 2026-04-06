@@ -1,0 +1,5248 @@
+{
+  "tracks": [
+    {
+      "id": "track-solitaires",
+      "title": "Solitaires",
+      "artist": "Future, Travis Scott",
+      "album": "High On Life",
+      "duration": 206,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/id/101/600/600",
+      "mood": ["hype", "party"],
+      "genre": "hip-hop",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 100,
+      "lastPlayed": "2024-12-20T22:00:00Z"
+    },
+    {
+      "id": "track-001",
+      "title": "Midnight Drive",
+      "artist": "Neon Pulse",
+      "album": "After Hours",
+      "duration": 234,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "/covers/track-001.jpg",
+      "mood": [
+        "chill",
+        "focus"
+      ],
+      "genre": "synthwave",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 0,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-002",
+      "title": "Ocean Breeze",
+      "artist": "Calm Shores",
+      "album": "Tidal Waves",
+      "duration": 198,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "/covers/track-002.jpg",
+      "mood": [
+        "chill",
+        "sleep"
+      ],
+      "genre": "ambient",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 12,
+      "lastPlayed": "2024-12-15T10:30:00Z"
+    },
+    {
+      "id": "track-003",
+      "title": "Electric Storm",
+      "artist": "Voltage",
+      "album": "High Frequency",
+      "duration": 187,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "/covers/track-003.jpg",
+      "mood": [
+        "hype",
+        "party"
+      ],
+      "genre": "electronic",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 5,
+      "lastPlayed": "2024-12-10T20:00:00Z"
+    },
+    {
+      "id": "track-004",
+      "title": "Rainy Café",
+      "artist": "Lo-Fi Dreams",
+      "album": "Quiet Mornings",
+      "duration": 213,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "/covers/track-004.jpg",
+      "mood": [
+        "focus",
+        "chill"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 28,
+      "lastPlayed": "2024-12-18T08:15:00Z"
+    },
+    {
+      "id": "track-005",
+      "title": "Golden Hour",
+      "artist": "Sunset Collective",
+      "album": "Warm Tones",
+      "duration": 246,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "/covers/track-005.jpg",
+      "mood": [
+        "chill",
+        "morning"
+      ],
+      "genre": "indie",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 3,
+      "lastPlayed": "2024-12-05T07:00:00Z"
+    },
+    {
+      "id": "track-006",
+      "title": "Neon Lights",
+      "artist": "Neon Pulse",
+      "album": "After Hours",
+      "duration": 202,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "/covers/track-006.jpg",
+      "mood": [
+        "hype",
+        "party"
+      ],
+      "genre": "synthwave",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 8,
+      "lastPlayed": "2024-12-12T22:45:00Z"
+    },
+    {
+      "id": "track-007",
+      "title": "Starfall",
+      "artist": "Cosmos",
+      "album": "Nebula",
+      "duration": 278,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "/covers/track-007.jpg",
+      "mood": [
+        "sleep",
+        "sad"
+      ],
+      "genre": "ambient",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 15,
+      "lastPlayed": "2024-12-17T23:30:00Z"
+    },
+    {
+      "id": "track-008",
+      "title": "Sunrise Run",
+      "artist": "Endorphin",
+      "album": "Peak Performance",
+      "duration": 195,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "/covers/track-008.jpg",
+      "mood": [
+        "morning",
+        "hype"
+      ],
+      "genre": "electronic",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 1,
+      "lastPlayed": "2024-12-01T06:30:00Z"
+    },
+    {
+      "id": "track-009",
+      "title": "Dancing Echo",
+      "artist": "Lo-Fi Dreams",
+      "album": "Dancing Journeys",
+      "duration": 261,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-009/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 14,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-010",
+      "title": "Obsidian Waves",
+      "artist": "Endorphin",
+      "album": "Obsidian Journeys",
+      "duration": 281,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-010/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "pop",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 12,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-011",
+      "title": "Wandering Dream",
+      "artist": "Cosmos",
+      "album": "Wandering Journeys",
+      "duration": 225,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-011/400/400",
+      "mood": [
+        "party",
+        "focus"
+      ],
+      "genre": "electronic",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 26,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-012",
+      "title": "Crimson Pulse",
+      "artist": "Lo-Fi Dreams",
+      "album": "Crimson Journeys",
+      "duration": 289,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-012/400/400",
+      "mood": [
+        "chill",
+        "sleep"
+      ],
+      "genre": "indie",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 23,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-013",
+      "title": "Obsidian Memory",
+      "artist": "Sunset Collective",
+      "album": "Obsidian Journeys",
+      "duration": 244,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-013/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "jazz",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 7,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-014",
+      "title": "Obsidian Shadow",
+      "artist": "Calm Shores",
+      "album": "Obsidian Journeys",
+      "duration": 217,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-014/400/400",
+      "mood": [
+        "chill",
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": "2026-03-30T05:57:50.916Z"
+    },
+    {
+      "id": "track-015",
+      "title": "Dancing Memory",
+      "artist": "Sunset Collective",
+      "album": "Dancing Journeys",
+      "duration": 288,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-015/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "jazz",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 10,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-016",
+      "title": "Azure Forest",
+      "artist": "Frequency",
+      "album": "Azure Journeys",
+      "duration": 275,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-016/400/400",
+      "mood": [
+        "focus",
+        "hype"
+      ],
+      "genre": "indie",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": "2026-03-01T01:56:05.222Z"
+    },
+    {
+      "id": "track-017",
+      "title": "Dancing Waves",
+      "artist": "Lo-Fi Dreams",
+      "album": "Dancing Journeys",
+      "duration": 262,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-017/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "electronic",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 22,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-018",
+      "title": "Silent Waves",
+      "artist": "Frequency",
+      "album": "Silent Journeys",
+      "duration": 191,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-018/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "techno",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 48,
+      "lastPlayed": "2026-03-25T09:56:51.138Z"
+    },
+    {
+      "id": "track-019",
+      "title": "Obsidian Storm",
+      "artist": "Cosmos",
+      "album": "Obsidian Journeys",
+      "duration": 210,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-019/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "electronic",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 23,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-020",
+      "title": "Sapphire Forest",
+      "artist": "Lo-Fi Dreams",
+      "album": "Sapphire Journeys",
+      "duration": 270,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-020/400/400",
+      "mood": [
+        "focus",
+        "sleep"
+      ],
+      "genre": "classical",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-021",
+      "title": "Crystal Storm",
+      "artist": "Voltage",
+      "album": "Crystal Journeys",
+      "duration": 275,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-021/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "pop",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": "2026-03-11T09:11:25.098Z"
+    },
+    {
+      "id": "track-022",
+      "title": "Velvet City",
+      "artist": "Orbit",
+      "album": "Velvet Journeys",
+      "duration": 186,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-022/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "techno",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 17,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-023",
+      "title": "Obsidian Waves",
+      "artist": "Waveform",
+      "album": "Obsidian Journeys",
+      "duration": 219,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-023/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "pop",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 22,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-024",
+      "title": "Hidden Pulse",
+      "artist": "Calm Shores",
+      "album": "Hidden Journeys",
+      "duration": 226,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-024/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "rock",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 22,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-025",
+      "title": "Sapphire Echo",
+      "artist": "Calm Shores",
+      "album": "Sapphire Journeys",
+      "duration": 186,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-025/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "indie",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 9,
+      "lastPlayed": "2026-03-24T07:13:18.505Z"
+    },
+    {
+      "id": "track-026",
+      "title": "Crystal Echo",
+      "artist": "Voltage",
+      "album": "Crystal Journeys",
+      "duration": 219,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-026/400/400",
+      "mood": [
+        "sad",
+        "hype"
+      ],
+      "genre": "synthwave",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 31,
+      "lastPlayed": "2026-03-29T06:46:02.664Z"
+    },
+    {
+      "id": "track-027",
+      "title": "Luminous City",
+      "artist": "Lo-Fi Dreams",
+      "album": "Luminous Journeys",
+      "duration": 262,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-027/400/400",
+      "mood": [
+        "focus",
+        "party"
+      ],
+      "genre": "electronic",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 18,
+      "lastPlayed": "2026-03-14T19:20:30.430Z"
+    },
+    {
+      "id": "track-028",
+      "title": "Emerald Storm",
+      "artist": "Calm Shores",
+      "album": "Emerald Journeys",
+      "duration": 270,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-028/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "ambient",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 12,
+      "lastPlayed": "2026-03-17T06:47:29.075Z"
+    },
+    {
+      "id": "track-029",
+      "title": "Midnight Pulse",
+      "artist": "Voltage",
+      "album": "Midnight Journeys",
+      "duration": 266,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-029/400/400",
+      "mood": [
+        "chill",
+        "party"
+      ],
+      "genre": "ambient",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 40,
+      "lastPlayed": "2026-03-21T06:46:18.555Z"
+    },
+    {
+      "id": "track-030",
+      "title": "Sapphire City",
+      "artist": "Frequency",
+      "album": "Sapphire Journeys",
+      "duration": 184,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-030/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "lo-fi",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 40,
+      "lastPlayed": "2026-03-07T03:18:02.346Z"
+    },
+    {
+      "id": "track-031",
+      "title": "Dancing Storm",
+      "artist": "Orbit",
+      "album": "Dancing Journeys",
+      "duration": 202,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-031/400/400",
+      "mood": [
+        "sleep",
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 34,
+      "lastPlayed": "2026-03-10T06:55:14.748Z"
+    },
+    {
+      "id": "track-032",
+      "title": "Wandering Forest",
+      "artist": "Voltage",
+      "album": "Wandering Journeys",
+      "duration": 271,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-032/400/400",
+      "mood": [
+        "sleep",
+        "sad"
+      ],
+      "genre": "rock",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 9,
+      "lastPlayed": "2026-03-04T19:58:41.814Z"
+    },
+    {
+      "id": "track-033",
+      "title": "Dancing City",
+      "artist": "Orbit",
+      "album": "Dancing Journeys",
+      "duration": 288,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-033/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "jazz",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 30,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-034",
+      "title": "Hidden Rhythm",
+      "artist": "Prism",
+      "album": "Hidden Journeys",
+      "duration": 229,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-034/400/400",
+      "mood": [
+        "morning",
+        "hype"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-035",
+      "title": "Hidden City",
+      "artist": "Frequency",
+      "album": "Hidden Journeys",
+      "duration": 210,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-035/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 18,
+      "lastPlayed": "2026-03-23T02:40:33.087Z"
+    },
+    {
+      "id": "track-036",
+      "title": "Electric Ocean",
+      "artist": "Endorphin",
+      "album": "Electric Journeys",
+      "duration": 255,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-036/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "techno",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 41,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-037",
+      "title": "Electric Pulse",
+      "artist": "Neon Pulse",
+      "album": "Electric Journeys",
+      "duration": 212,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-037/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "classical",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 46,
+      "lastPlayed": "2026-03-06T01:01:37.351Z"
+    },
+    {
+      "id": "track-038",
+      "title": "Crystal Forest",
+      "artist": "Lo-Fi Dreams",
+      "album": "Crystal Journeys",
+      "duration": 291,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-038/400/400",
+      "mood": [
+        "chill",
+        "sleep"
+      ],
+      "genre": "electronic",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 5,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-039",
+      "title": "Dancing Rhythm",
+      "artist": "Orbit",
+      "album": "Dancing Journeys",
+      "duration": 264,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-039/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "synthwave",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 26,
+      "lastPlayed": "2026-03-29T19:01:48.191Z"
+    },
+    {
+      "id": "track-040",
+      "title": "Obsidian Rhythm",
+      "artist": "Neon Pulse",
+      "album": "Obsidian Journeys",
+      "duration": 186,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-040/400/400",
+      "mood": [
+        "sad",
+        "hype"
+      ],
+      "genre": "pop",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 32,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-041",
+      "title": "Silent Waves",
+      "artist": "Sunset Collective",
+      "album": "Silent Journeys",
+      "duration": 213,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-041/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 16,
+      "lastPlayed": "2026-03-25T20:20:34.999Z"
+    },
+    {
+      "id": "track-042",
+      "title": "Neon Light",
+      "artist": "Calm Shores",
+      "album": "Neon Journeys",
+      "duration": 209,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-042/400/400",
+      "mood": [
+        "hype",
+        "party"
+      ],
+      "genre": "pop",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 17,
+      "lastPlayed": "2026-03-05T03:32:48.020Z"
+    },
+    {
+      "id": "track-043",
+      "title": "Dancing Pulse",
+      "artist": "Sunset Collective",
+      "album": "Dancing Journeys",
+      "duration": 197,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-043/400/400",
+      "mood": [
+        "sad",
+        "party"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 42,
+      "lastPlayed": "2026-03-10T08:54:27.228Z"
+    },
+    {
+      "id": "track-044",
+      "title": "Golden City",
+      "artist": "Prism",
+      "album": "Golden Journeys",
+      "duration": 281,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-044/400/400",
+      "mood": [
+        "focus",
+        "hype"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 10,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-045",
+      "title": "Electric City",
+      "artist": "Endorphin",
+      "album": "Electric Journeys",
+      "duration": 252,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-045/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "rock",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 24,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-046",
+      "title": "Luminous Ocean",
+      "artist": "Calm Shores",
+      "album": "Luminous Journeys",
+      "duration": 207,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-046/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "rock",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": "2026-03-26T22:46:42.185Z"
+    },
+    {
+      "id": "track-047",
+      "title": "Neon Storm",
+      "artist": "Endorphin",
+      "album": "Neon Journeys",
+      "duration": 276,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-047/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 32,
+      "lastPlayed": "2026-03-01T15:25:28.403Z"
+    },
+    {
+      "id": "track-048",
+      "title": "Electric Ocean",
+      "artist": "Orbit",
+      "album": "Electric Journeys",
+      "duration": 190,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-048/400/400",
+      "mood": [
+        "morning",
+        "focus"
+      ],
+      "genre": "pop",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 28,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-049",
+      "title": "Midnight City",
+      "artist": "Orbit",
+      "album": "Midnight Journeys",
+      "duration": 243,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-049/400/400",
+      "mood": [
+        "sad",
+        "hype"
+      ],
+      "genre": "techno",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 46,
+      "lastPlayed": "2026-03-09T22:51:05.971Z"
+    },
+    {
+      "id": "track-050",
+      "title": "Dancing Storm",
+      "artist": "Endorphin",
+      "album": "Dancing Journeys",
+      "duration": 185,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-050/400/400",
+      "mood": [
+        "sleep",
+        "focus"
+      ],
+      "genre": "indie",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 39,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-051",
+      "title": "Emerald Vision",
+      "artist": "Waveform",
+      "album": "Emerald Journeys",
+      "duration": 255,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-051/400/400",
+      "mood": [
+        "morning",
+        "sad"
+      ],
+      "genre": "classical",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 10,
+      "lastPlayed": "2026-03-22T04:27:33.201Z"
+    },
+    {
+      "id": "track-052",
+      "title": "Dancing Waves",
+      "artist": "Calm Shores",
+      "album": "Dancing Journeys",
+      "duration": 240,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-052/400/400",
+      "mood": [
+        "hype",
+        "focus"
+      ],
+      "genre": "ambient",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 16,
+      "lastPlayed": "2026-03-17T18:41:32.486Z"
+    },
+    {
+      "id": "track-053",
+      "title": "Dancing Sky",
+      "artist": "Cosmos",
+      "album": "Dancing Journeys",
+      "duration": 267,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-053/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "rock",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 9,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-054",
+      "title": "Sapphire City",
+      "artist": "Voltage",
+      "album": "Sapphire Journeys",
+      "duration": 260,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-054/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "classical",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 22,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-055",
+      "title": "Azure Ocean",
+      "artist": "Orbit",
+      "album": "Azure Journeys",
+      "duration": 217,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-055/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "ambient",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 17,
+      "lastPlayed": "2026-03-17T06:53:37.377Z"
+    },
+    {
+      "id": "track-056",
+      "title": "Neon Shadow",
+      "artist": "Cosmos",
+      "album": "Neon Journeys",
+      "duration": 293,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-056/400/400",
+      "mood": [
+        "sad",
+        "focus"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 20,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-057",
+      "title": "Wandering Waves",
+      "artist": "Cosmos",
+      "album": "Wandering Journeys",
+      "duration": 202,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-057/400/400",
+      "mood": [
+        "chill",
+        "hype"
+      ],
+      "genre": "jazz",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 43,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-058",
+      "title": "Obsidian Pulse",
+      "artist": "Waveform",
+      "album": "Obsidian Journeys",
+      "duration": 184,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-058/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "ambient",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 16,
+      "lastPlayed": "2026-03-19T19:24:03.665Z"
+    },
+    {
+      "id": "track-059",
+      "title": "Luminous City",
+      "artist": "Voltage",
+      "album": "Luminous Journeys",
+      "duration": 287,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-059/400/400",
+      "mood": [
+        "chill",
+        "party"
+      ],
+      "genre": "electronic",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 12,
+      "lastPlayed": "2026-03-07T19:26:34.744Z"
+    },
+    {
+      "id": "track-060",
+      "title": "Silent Vibration",
+      "artist": "Orbit",
+      "album": "Silent Journeys",
+      "duration": 194,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-060/400/400",
+      "mood": [
+        "sleep",
+        "party"
+      ],
+      "genre": "synthwave",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 15,
+      "lastPlayed": "2026-03-18T13:09:41.964Z"
+    },
+    {
+      "id": "track-061",
+      "title": "Crystal Ocean",
+      "artist": "Sunset Collective",
+      "album": "Crystal Journeys",
+      "duration": 275,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-061/400/400",
+      "mood": [
+        "focus",
+        "hype"
+      ],
+      "genre": "indie",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 17,
+      "lastPlayed": "2026-03-17T19:03:26.917Z"
+    },
+    {
+      "id": "track-062",
+      "title": "Velvet Waves",
+      "artist": "Calm Shores",
+      "album": "Velvet Journeys",
+      "duration": 214,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-062/400/400",
+      "mood": [
+        "morning",
+        "hype"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 43,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-063",
+      "title": "Silent Road",
+      "artist": "Sunset Collective",
+      "album": "Silent Journeys",
+      "duration": 195,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-063/400/400",
+      "mood": [
+        "focus",
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 0,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-064",
+      "title": "Velvet Storm",
+      "artist": "Endorphin",
+      "album": "Velvet Journeys",
+      "duration": 229,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-064/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 43,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-065",
+      "title": "Obsidian Ocean",
+      "artist": "Frequency",
+      "album": "Obsidian Journeys",
+      "duration": 185,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-065/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "jazz",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 49,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-066",
+      "title": "Dancing Pulse",
+      "artist": "Frequency",
+      "album": "Dancing Journeys",
+      "duration": 225,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-066/400/400",
+      "mood": [
+        "hype",
+        "chill"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 5,
+      "lastPlayed": "2026-03-19T18:11:50.067Z"
+    },
+    {
+      "id": "track-067",
+      "title": "Electric Light",
+      "artist": "Endorphin",
+      "album": "Electric Journeys",
+      "duration": 254,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-067/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "pop",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 1,
+      "lastPlayed": "2026-03-23T10:28:09.855Z"
+    },
+    {
+      "id": "track-068",
+      "title": "Midnight Shadow",
+      "artist": "Orbit",
+      "album": "Midnight Journeys",
+      "duration": 186,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-068/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "rock",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 19,
+      "lastPlayed": "2026-03-27T01:39:12.121Z"
+    },
+    {
+      "id": "track-069",
+      "title": "Sapphire Vibration",
+      "artist": "Vortex",
+      "album": "Sapphire Journeys",
+      "duration": 257,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-069/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "ambient",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 36,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-070",
+      "title": "Electric Pulse",
+      "artist": "Vortex",
+      "album": "Electric Journeys",
+      "duration": 251,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-070/400/400",
+      "mood": [
+        "morning",
+        "chill"
+      ],
+      "genre": "techno",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 26,
+      "lastPlayed": "2026-03-19T08:36:21.728Z"
+    },
+    {
+      "id": "track-071",
+      "title": "Sapphire Road",
+      "artist": "Sunset Collective",
+      "album": "Sapphire Journeys",
+      "duration": 281,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-071/400/400",
+      "mood": [
+        "hype",
+        "morning"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 20,
+      "lastPlayed": "2026-03-26T19:02:21.298Z"
+    },
+    {
+      "id": "track-072",
+      "title": "Velvet Rhythm",
+      "artist": "Orbit",
+      "album": "Velvet Journeys",
+      "duration": 252,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-072/400/400",
+      "mood": [
+        "sad",
+        "hype"
+      ],
+      "genre": "classical",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 44,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-073",
+      "title": "Golden Vibration",
+      "artist": "Prism",
+      "album": "Golden Journeys",
+      "duration": 254,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-073/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "electronic",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 28,
+      "lastPlayed": "2026-03-15T19:09:47.709Z"
+    },
+    {
+      "id": "track-074",
+      "title": "Obsidian Road",
+      "artist": "Vortex",
+      "album": "Obsidian Journeys",
+      "duration": 215,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-074/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "indie",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 7,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-075",
+      "title": "Midnight Vision",
+      "artist": "Frequency",
+      "album": "Midnight Journeys",
+      "duration": 224,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-075/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 4,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-076",
+      "title": "Electric Storm",
+      "artist": "Vortex",
+      "album": "Electric Journeys",
+      "duration": 245,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-076/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "synthwave",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 15,
+      "lastPlayed": "2026-03-07T12:54:16.765Z"
+    },
+    {
+      "id": "track-077",
+      "title": "Midnight Forest",
+      "artist": "Voltage",
+      "album": "Midnight Journeys",
+      "duration": 217,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-077/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "ambient",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 12,
+      "lastPlayed": "2026-03-13T04:03:57.268Z"
+    },
+    {
+      "id": "track-078",
+      "title": "Electric Light",
+      "artist": "Voltage",
+      "album": "Electric Journeys",
+      "duration": 212,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-078/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "techno",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 14,
+      "lastPlayed": "2026-03-15T04:03:52.204Z"
+    },
+    {
+      "id": "track-079",
+      "title": "Midnight Vision",
+      "artist": "Sunset Collective",
+      "album": "Midnight Journeys",
+      "duration": 271,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-079/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 43,
+      "lastPlayed": "2026-03-16T11:52:25.653Z"
+    },
+    {
+      "id": "track-080",
+      "title": "Electric Memory",
+      "artist": "Waveform",
+      "album": "Electric Journeys",
+      "duration": 249,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-080/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "classical",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 18,
+      "lastPlayed": "2026-03-17T18:38:10.051Z"
+    },
+    {
+      "id": "track-081",
+      "title": "Silent Light",
+      "artist": "Neon Pulse",
+      "album": "Silent Journeys",
+      "duration": 216,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-081/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "indie",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 12,
+      "lastPlayed": "2026-03-02T12:16:18.567Z"
+    },
+    {
+      "id": "track-082",
+      "title": "Velvet Forest",
+      "artist": "Calm Shores",
+      "album": "Velvet Journeys",
+      "duration": 265,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-082/400/400",
+      "mood": [
+        "sleep",
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 3,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-083",
+      "title": "Crimson Sky",
+      "artist": "Cosmos",
+      "album": "Crimson Journeys",
+      "duration": 247,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-083/400/400",
+      "mood": [
+        "morning",
+        "hype"
+      ],
+      "genre": "electronic",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 26,
+      "lastPlayed": "2026-03-18T10:41:19.239Z"
+    },
+    {
+      "id": "track-084",
+      "title": "Silent Forest",
+      "artist": "Neon Pulse",
+      "album": "Silent Journeys",
+      "duration": 281,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-084/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "synthwave",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 10,
+      "lastPlayed": "2026-03-15T23:14:45.256Z"
+    },
+    {
+      "id": "track-085",
+      "title": "Neon Road",
+      "artist": "Cosmos",
+      "album": "Neon Journeys",
+      "duration": 238,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-085/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "ambient",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 24,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-086",
+      "title": "Crystal Road",
+      "artist": "Vortex",
+      "album": "Crystal Journeys",
+      "duration": 241,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-086/400/400",
+      "mood": [
+        "hype",
+        "sleep"
+      ],
+      "genre": "pop",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": "2026-03-21T09:39:38.299Z"
+    },
+    {
+      "id": "track-087",
+      "title": "Electric Rhythm",
+      "artist": "Endorphin",
+      "album": "Electric Journeys",
+      "duration": 219,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-087/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "classical",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 38,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-088",
+      "title": "Crimson Light",
+      "artist": "Sunset Collective",
+      "album": "Crimson Journeys",
+      "duration": 287,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-088/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "techno",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 38,
+      "lastPlayed": "2026-03-22T16:05:31.669Z"
+    },
+    {
+      "id": "track-089",
+      "title": "Velvet Shadow",
+      "artist": "Neon Pulse",
+      "album": "Velvet Journeys",
+      "duration": 269,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-089/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "jazz",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-090",
+      "title": "Golden City",
+      "artist": "Calm Shores",
+      "album": "Golden Journeys",
+      "duration": 266,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-090/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "ambient",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 25,
+      "lastPlayed": "2026-03-13T18:14:17.648Z"
+    },
+    {
+      "id": "track-091",
+      "title": "Azure Vision",
+      "artist": "Voltage",
+      "album": "Azure Journeys",
+      "duration": 197,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-091/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 49,
+      "lastPlayed": "2026-03-01T23:26:37.349Z"
+    },
+    {
+      "id": "track-092",
+      "title": "Luminous Pulse",
+      "artist": "Endorphin",
+      "album": "Luminous Journeys",
+      "duration": 220,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-092/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 41,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-093",
+      "title": "Hidden Memory",
+      "artist": "Cosmos",
+      "album": "Hidden Journeys",
+      "duration": 297,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-093/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "indie",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 8,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-094",
+      "title": "Silent Forest",
+      "artist": "Sunset Collective",
+      "album": "Silent Journeys",
+      "duration": 208,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-094/400/400",
+      "mood": [
+        "sad",
+        "sleep"
+      ],
+      "genre": "electronic",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 27,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-095",
+      "title": "Luminous Sky",
+      "artist": "Voltage",
+      "album": "Luminous Journeys",
+      "duration": 262,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-095/400/400",
+      "mood": [
+        "focus",
+        "sad"
+      ],
+      "genre": "pop",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 37,
+      "lastPlayed": "2026-03-26T19:00:46.378Z"
+    },
+    {
+      "id": "track-096",
+      "title": "Azure Light",
+      "artist": "Sunset Collective",
+      "album": "Azure Journeys",
+      "duration": 247,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-096/400/400",
+      "mood": [
+        "sleep",
+        "chill"
+      ],
+      "genre": "classical",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 35,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-097",
+      "title": "Golden Road",
+      "artist": "Frequency",
+      "album": "Golden Journeys",
+      "duration": 297,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-097/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "ambient",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 5,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-098",
+      "title": "Midnight Storm",
+      "artist": "Orbit",
+      "album": "Midnight Journeys",
+      "duration": 238,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-098/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-099",
+      "title": "Velvet Sky",
+      "artist": "Cosmos",
+      "album": "Velvet Journeys",
+      "duration": 254,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-099/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "electronic",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": "2026-03-18T00:31:17.944Z"
+    },
+    {
+      "id": "track-100",
+      "title": "Velvet Forest",
+      "artist": "Sunset Collective",
+      "album": "Velvet Journeys",
+      "duration": 231,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-100/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "classical",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 44,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-101",
+      "title": "Emerald Rhythm",
+      "artist": "Orbit",
+      "album": "Emerald Journeys",
+      "duration": 221,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-101/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "electronic",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 12,
+      "lastPlayed": "2026-03-03T23:31:35.337Z"
+    },
+    {
+      "id": "track-102",
+      "title": "Midnight Ocean",
+      "artist": "Neon Pulse",
+      "album": "Midnight Journeys",
+      "duration": 245,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-102/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "synthwave",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 16,
+      "lastPlayed": "2026-03-07T20:18:33.750Z"
+    },
+    {
+      "id": "track-103",
+      "title": "Dancing Shadow",
+      "artist": "Endorphin",
+      "album": "Dancing Journeys",
+      "duration": 198,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-103/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "synthwave",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 18,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-104",
+      "title": "Emerald Sky",
+      "artist": "Endorphin",
+      "album": "Emerald Journeys",
+      "duration": 225,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-104/400/400",
+      "mood": [
+        "sad",
+        "chill"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 6,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-105",
+      "title": "Midnight Forest",
+      "artist": "Endorphin",
+      "album": "Midnight Journeys",
+      "duration": 297,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-105/400/400",
+      "mood": [
+        "chill",
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 46,
+      "lastPlayed": "2026-03-21T00:09:00.322Z"
+    },
+    {
+      "id": "track-106",
+      "title": "Silent Memory",
+      "artist": "Orbit",
+      "album": "Silent Journeys",
+      "duration": 189,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-106/400/400",
+      "mood": [
+        "chill",
+        "party"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 17,
+      "lastPlayed": "2026-03-06T20:24:43.493Z"
+    },
+    {
+      "id": "track-107",
+      "title": "Crystal Forest",
+      "artist": "Lo-Fi Dreams",
+      "album": "Crystal Journeys",
+      "duration": 218,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-107/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 32,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-108",
+      "title": "Velvet Storm",
+      "artist": "Neon Pulse",
+      "album": "Velvet Journeys",
+      "duration": 195,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-108/400/400",
+      "mood": [
+        "sleep",
+        "hype"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 27,
+      "lastPlayed": "2026-03-19T03:22:54.962Z"
+    },
+    {
+      "id": "track-109",
+      "title": "Neon Storm",
+      "artist": "Waveform",
+      "album": "Neon Journeys",
+      "duration": 269,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-109/400/400",
+      "mood": [
+        "hype",
+        "sleep"
+      ],
+      "genre": "techno",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 36,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-110",
+      "title": "Electric City",
+      "artist": "Endorphin",
+      "album": "Electric Journeys",
+      "duration": 227,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-110/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 7,
+      "lastPlayed": "2026-03-07T02:54:12.075Z"
+    },
+    {
+      "id": "track-111",
+      "title": "Silent Storm",
+      "artist": "Waveform",
+      "album": "Silent Journeys",
+      "duration": 297,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-111/400/400",
+      "mood": [
+        "hype",
+        "party"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": "2026-03-09T03:17:28.143Z"
+    },
+    {
+      "id": "track-112",
+      "title": "Emerald Vibration",
+      "artist": "Sunset Collective",
+      "album": "Emerald Journeys",
+      "duration": 224,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-112/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "classical",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 4,
+      "lastPlayed": "2026-03-07T21:08:26.703Z"
+    },
+    {
+      "id": "track-113",
+      "title": "Hidden Waves",
+      "artist": "Frequency",
+      "album": "Hidden Journeys",
+      "duration": 189,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-113/400/400",
+      "mood": [
+        "party",
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 40,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-114",
+      "title": "Crimson Light",
+      "artist": "Calm Shores",
+      "album": "Crimson Journeys",
+      "duration": 202,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-114/400/400",
+      "mood": [
+        "chill",
+        "hype"
+      ],
+      "genre": "lo-fi",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 33,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-115",
+      "title": "Hidden Waves",
+      "artist": "Frequency",
+      "album": "Hidden Journeys",
+      "duration": 213,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-115/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 44,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-116",
+      "title": "Sapphire Vibration",
+      "artist": "Calm Shores",
+      "album": "Sapphire Journeys",
+      "duration": 259,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-116/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "techno",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 29,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-117",
+      "title": "Midnight Echo",
+      "artist": "Frequency",
+      "album": "Midnight Journeys",
+      "duration": 208,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-117/400/400",
+      "mood": [
+        "party",
+        "focus"
+      ],
+      "genre": "indie",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 37,
+      "lastPlayed": "2026-03-03T05:58:08.406Z"
+    },
+    {
+      "id": "track-118",
+      "title": "Neon Pulse",
+      "artist": "Vortex",
+      "album": "Neon Journeys",
+      "duration": 200,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-118/400/400",
+      "mood": [
+        "hype",
+        "party"
+      ],
+      "genre": "pop",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 7,
+      "lastPlayed": "2026-03-07T14:17:53.653Z"
+    },
+    {
+      "id": "track-119",
+      "title": "Luminous Ocean",
+      "artist": "Endorphin",
+      "album": "Luminous Journeys",
+      "duration": 267,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-119/400/400",
+      "mood": [
+        "hype",
+        "focus"
+      ],
+      "genre": "classical",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 48,
+      "lastPlayed": "2026-03-21T13:52:35.990Z"
+    },
+    {
+      "id": "track-120",
+      "title": "Luminous Vibration",
+      "artist": "Calm Shores",
+      "album": "Luminous Journeys",
+      "duration": 296,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-120/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "pop",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 46,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-121",
+      "title": "Dancing Dream",
+      "artist": "Neon Pulse",
+      "album": "Dancing Journeys",
+      "duration": 232,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-121/400/400",
+      "mood": [
+        "morning",
+        "party"
+      ],
+      "genre": "synthwave",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 19,
+      "lastPlayed": "2026-03-12T05:15:55.730Z"
+    },
+    {
+      "id": "track-122",
+      "title": "Luminous Vibration",
+      "artist": "Cosmos",
+      "album": "Luminous Journeys",
+      "duration": 194,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-122/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "pop",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 25,
+      "lastPlayed": "2026-03-06T03:45:44.723Z"
+    },
+    {
+      "id": "track-123",
+      "title": "Obsidian Dream",
+      "artist": "Cosmos",
+      "album": "Obsidian Journeys",
+      "duration": 273,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-123/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 13,
+      "lastPlayed": "2026-03-25T07:53:07.374Z"
+    },
+    {
+      "id": "track-124",
+      "title": "Electric Waves",
+      "artist": "Cosmos",
+      "album": "Electric Journeys",
+      "duration": 286,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-124/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "indie",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 36,
+      "lastPlayed": "2026-03-18T22:04:19.829Z"
+    },
+    {
+      "id": "track-125",
+      "title": "Midnight Sky",
+      "artist": "Orbit",
+      "album": "Midnight Journeys",
+      "duration": 274,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-125/400/400",
+      "mood": [
+        "hype",
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 38,
+      "lastPlayed": "2026-03-12T02:28:04.020Z"
+    },
+    {
+      "id": "track-126",
+      "title": "Emerald Memory",
+      "artist": "Frequency",
+      "album": "Emerald Journeys",
+      "duration": 280,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-126/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "electronic",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 5,
+      "lastPlayed": "2026-03-09T13:51:19.358Z"
+    },
+    {
+      "id": "track-127",
+      "title": "Hidden Sky",
+      "artist": "Prism",
+      "album": "Hidden Journeys",
+      "duration": 261,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-127/400/400",
+      "mood": [
+        "party",
+        "chill"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-128",
+      "title": "Silent Road",
+      "artist": "Prism",
+      "album": "Silent Journeys",
+      "duration": 262,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-128/400/400",
+      "mood": [
+        "hype",
+        "sad"
+      ],
+      "genre": "indie",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 5,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-129",
+      "title": "Emerald Ocean",
+      "artist": "Neon Pulse",
+      "album": "Emerald Journeys",
+      "duration": 242,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-129/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 29,
+      "lastPlayed": "2026-03-03T12:33:07.155Z"
+    },
+    {
+      "id": "track-130",
+      "title": "Midnight Dream",
+      "artist": "Voltage",
+      "album": "Midnight Journeys",
+      "duration": 274,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-130/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "ambient",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 43,
+      "lastPlayed": "2026-03-11T17:05:31.059Z"
+    },
+    {
+      "id": "track-131",
+      "title": "Electric Vibration",
+      "artist": "Prism",
+      "album": "Electric Journeys",
+      "duration": 194,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-131/400/400",
+      "mood": [
+        "sleep",
+        "focus"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 38,
+      "lastPlayed": "2026-03-02T15:19:53.517Z"
+    },
+    {
+      "id": "track-132",
+      "title": "Neon Road",
+      "artist": "Cosmos",
+      "album": "Neon Journeys",
+      "duration": 294,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-132/400/400",
+      "mood": [
+        "focus",
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 10,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-133",
+      "title": "Wandering Sky",
+      "artist": "Cosmos",
+      "album": "Wandering Journeys",
+      "duration": 181,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-133/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "jazz",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 17,
+      "lastPlayed": "2026-03-05T21:00:55.056Z"
+    },
+    {
+      "id": "track-134",
+      "title": "Emerald Forest",
+      "artist": "Waveform",
+      "album": "Emerald Journeys",
+      "duration": 181,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-134/400/400",
+      "mood": [
+        "chill",
+        "sad"
+      ],
+      "genre": "pop",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 40,
+      "lastPlayed": "2026-03-27T05:03:40.970Z"
+    },
+    {
+      "id": "track-135",
+      "title": "Hidden Pulse",
+      "artist": "Orbit",
+      "album": "Hidden Journeys",
+      "duration": 295,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-135/400/400",
+      "mood": [
+        "sleep",
+        "focus"
+      ],
+      "genre": "indie",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 40,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-136",
+      "title": "Sapphire Dream",
+      "artist": "Neon Pulse",
+      "album": "Sapphire Journeys",
+      "duration": 241,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-136/400/400",
+      "mood": [
+        "morning",
+        "focus"
+      ],
+      "genre": "techno",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 26,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-137",
+      "title": "Golden Memory",
+      "artist": "Calm Shores",
+      "album": "Golden Journeys",
+      "duration": 269,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-137/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "synthwave",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 40,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-138",
+      "title": "Luminous City",
+      "artist": "Calm Shores",
+      "album": "Luminous Journeys",
+      "duration": 287,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-138/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "electronic",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 30,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-139",
+      "title": "Crimson Shadow",
+      "artist": "Waveform",
+      "album": "Crimson Journeys",
+      "duration": 191,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-139/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "synthwave",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 8,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-140",
+      "title": "Hidden Pulse",
+      "artist": "Orbit",
+      "album": "Hidden Journeys",
+      "duration": 201,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-140/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 9,
+      "lastPlayed": "2026-03-12T11:10:05.251Z"
+    },
+    {
+      "id": "track-141",
+      "title": "Azure Memory",
+      "artist": "Calm Shores",
+      "album": "Azure Journeys",
+      "duration": 234,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-141/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-142",
+      "title": "Hidden Echo",
+      "artist": "Vortex",
+      "album": "Hidden Journeys",
+      "duration": 276,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-142/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "indie",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 14,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-143",
+      "title": "Electric Shadow",
+      "artist": "Lo-Fi Dreams",
+      "album": "Electric Journeys",
+      "duration": 283,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-143/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 42,
+      "lastPlayed": "2026-03-27T04:17:20.581Z"
+    },
+    {
+      "id": "track-144",
+      "title": "Hidden Storm",
+      "artist": "Calm Shores",
+      "album": "Hidden Journeys",
+      "duration": 223,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-144/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "techno",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 35,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-145",
+      "title": "Velvet Vision",
+      "artist": "Lo-Fi Dreams",
+      "album": "Velvet Journeys",
+      "duration": 237,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-145/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "lo-fi",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 2,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-146",
+      "title": "Midnight Road",
+      "artist": "Lo-Fi Dreams",
+      "album": "Midnight Journeys",
+      "duration": 202,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-146/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "jazz",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 20,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-147",
+      "title": "Midnight Pulse",
+      "artist": "Neon Pulse",
+      "album": "Midnight Journeys",
+      "duration": 265,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-147/400/400",
+      "mood": [
+        "focus",
+        "party"
+      ],
+      "genre": "lo-fi",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 22,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-148",
+      "title": "Midnight Vision",
+      "artist": "Calm Shores",
+      "album": "Midnight Journeys",
+      "duration": 199,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-148/400/400",
+      "mood": [
+        "chill",
+        "sad"
+      ],
+      "genre": "synthwave",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 47,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-149",
+      "title": "Luminous Vision",
+      "artist": "Endorphin",
+      "album": "Luminous Journeys",
+      "duration": 195,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-149/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "pop",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 35,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-150",
+      "title": "Hidden Sky",
+      "artist": "Endorphin",
+      "album": "Hidden Journeys",
+      "duration": 219,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-150/400/400",
+      "mood": [
+        "hype",
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 32,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-151",
+      "title": "Golden Vision",
+      "artist": "Prism",
+      "album": "Golden Journeys",
+      "duration": 267,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-151/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 33,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-152",
+      "title": "Luminous Dream",
+      "artist": "Sunset Collective",
+      "album": "Luminous Journeys",
+      "duration": 235,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-152/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "techno",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-153",
+      "title": "Azure Vision",
+      "artist": "Prism",
+      "album": "Azure Journeys",
+      "duration": 223,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-153/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "synthwave",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 48,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-154",
+      "title": "Obsidian Light",
+      "artist": "Calm Shores",
+      "album": "Obsidian Journeys",
+      "duration": 256,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-154/400/400",
+      "mood": [
+        "hype",
+        "sleep"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 45,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-155",
+      "title": "Neon Dream",
+      "artist": "Neon Pulse",
+      "album": "Neon Journeys",
+      "duration": 238,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-155/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 47,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-156",
+      "title": "Azure Road",
+      "artist": "Cosmos",
+      "album": "Azure Journeys",
+      "duration": 214,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-156/400/400",
+      "mood": [
+        "party",
+        "sad"
+      ],
+      "genre": "classical",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 35,
+      "lastPlayed": "2026-03-09T23:24:37.996Z"
+    },
+    {
+      "id": "track-157",
+      "title": "Neon Light",
+      "artist": "Sunset Collective",
+      "album": "Neon Journeys",
+      "duration": 194,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-157/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 43,
+      "lastPlayed": "2026-03-17T23:44:18.460Z"
+    },
+    {
+      "id": "track-158",
+      "title": "Neon Road",
+      "artist": "Cosmos",
+      "album": "Neon Journeys",
+      "duration": 261,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-158/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "electronic",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 11,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-159",
+      "title": "Velvet Light",
+      "artist": "Voltage",
+      "album": "Velvet Journeys",
+      "duration": 285,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-159/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "rock",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 13,
+      "lastPlayed": "2026-03-06T16:39:50.995Z"
+    },
+    {
+      "id": "track-160",
+      "title": "Emerald Sky",
+      "artist": "Calm Shores",
+      "album": "Emerald Journeys",
+      "duration": 268,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-160/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 42,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-161",
+      "title": "Electric City",
+      "artist": "Prism",
+      "album": "Electric Journeys",
+      "duration": 221,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-161/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "synthwave",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 41,
+      "lastPlayed": "2026-03-11T04:58:51.255Z"
+    },
+    {
+      "id": "track-162",
+      "title": "Wandering Forest",
+      "artist": "Frequency",
+      "album": "Wandering Journeys",
+      "duration": 213,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-162/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 16,
+      "lastPlayed": "2026-03-25T10:02:54.833Z"
+    },
+    {
+      "id": "track-163",
+      "title": "Crimson Dream",
+      "artist": "Neon Pulse",
+      "album": "Crimson Journeys",
+      "duration": 189,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-163/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "synthwave",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 28,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-164",
+      "title": "Dancing Echo",
+      "artist": "Waveform",
+      "album": "Dancing Journeys",
+      "duration": 232,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-164/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "lo-fi",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 23,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-165",
+      "title": "Crimson City",
+      "artist": "Lo-Fi Dreams",
+      "album": "Crimson Journeys",
+      "duration": 276,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-165/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "rock",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 46,
+      "lastPlayed": "2026-03-19T10:41:53.057Z"
+    },
+    {
+      "id": "track-166",
+      "title": "Azure Echo",
+      "artist": "Endorphin",
+      "album": "Azure Journeys",
+      "duration": 262,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-166/400/400",
+      "mood": [
+        "hype",
+        "morning"
+      ],
+      "genre": "ambient",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 0,
+      "lastPlayed": "2026-03-20T18:09:17.489Z"
+    },
+    {
+      "id": "track-167",
+      "title": "Golden Rhythm",
+      "artist": "Lo-Fi Dreams",
+      "album": "Golden Journeys",
+      "duration": 228,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-167/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "synthwave",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 1,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-168",
+      "title": "Emerald Shadow",
+      "artist": "Cosmos",
+      "album": "Emerald Journeys",
+      "duration": 198,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-168/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "techno",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 20,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-169",
+      "title": "Neon Dream",
+      "artist": "Cosmos",
+      "album": "Neon Journeys",
+      "duration": 254,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-169/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "synthwave",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 38,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-170",
+      "title": "Velvet Forest",
+      "artist": "Voltage",
+      "album": "Velvet Journeys",
+      "duration": 238,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-170/400/400",
+      "mood": [
+        "sad",
+        "sleep"
+      ],
+      "genre": "electronic",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-171",
+      "title": "Velvet Shadow",
+      "artist": "Frequency",
+      "album": "Velvet Journeys",
+      "duration": 286,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-171/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "techno",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 13,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-172",
+      "title": "Silent Shadow",
+      "artist": "Cosmos",
+      "album": "Silent Journeys",
+      "duration": 252,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-172/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "lo-fi",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 16,
+      "lastPlayed": "2026-03-28T03:08:41.244Z"
+    },
+    {
+      "id": "track-173",
+      "title": "Hidden Sky",
+      "artist": "Prism",
+      "album": "Hidden Journeys",
+      "duration": 186,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-173/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 1,
+      "lastPlayed": "2026-03-24T21:15:14.466Z"
+    },
+    {
+      "id": "track-174",
+      "title": "Wandering Rhythm",
+      "artist": "Neon Pulse",
+      "album": "Wandering Journeys",
+      "duration": 238,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-174/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "electronic",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 26,
+      "lastPlayed": "2026-03-26T06:00:08.430Z"
+    },
+    {
+      "id": "track-175",
+      "title": "Wandering Vision",
+      "artist": "Cosmos",
+      "album": "Wandering Journeys",
+      "duration": 216,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-175/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "jazz",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 43,
+      "lastPlayed": "2026-03-27T14:36:40.754Z"
+    },
+    {
+      "id": "track-176",
+      "title": "Crimson Road",
+      "artist": "Sunset Collective",
+      "album": "Crimson Journeys",
+      "duration": 288,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-176/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "indie",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 44,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-177",
+      "title": "Midnight Waves",
+      "artist": "Prism",
+      "album": "Midnight Journeys",
+      "duration": 254,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-177/400/400",
+      "mood": [
+        "focus",
+        "sleep"
+      ],
+      "genre": "jazz",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 6,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-178",
+      "title": "Luminous Vibration",
+      "artist": "Calm Shores",
+      "album": "Luminous Journeys",
+      "duration": 198,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-178/400/400",
+      "mood": [
+        "sad",
+        "focus"
+      ],
+      "genre": "electronic",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": "2026-03-13T04:53:27.105Z"
+    },
+    {
+      "id": "track-179",
+      "title": "Neon Sky",
+      "artist": "Vortex",
+      "album": "Neon Journeys",
+      "duration": 279,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-179/400/400",
+      "mood": [
+        "party",
+        "morning"
+      ],
+      "genre": "indie",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": "2026-03-06T14:23:46.001Z"
+    },
+    {
+      "id": "track-180",
+      "title": "Midnight Vibration",
+      "artist": "Neon Pulse",
+      "album": "Midnight Journeys",
+      "duration": 287,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-180/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 27,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-181",
+      "title": "Silent Echo",
+      "artist": "Waveform",
+      "album": "Silent Journeys",
+      "duration": 277,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-181/400/400",
+      "mood": [
+        "party",
+        "morning"
+      ],
+      "genre": "indie",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 18,
+      "lastPlayed": "2026-03-14T21:04:52.973Z"
+    },
+    {
+      "id": "track-182",
+      "title": "Wandering Vibration",
+      "artist": "Calm Shores",
+      "album": "Wandering Journeys",
+      "duration": 185,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-182/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "jazz",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-183",
+      "title": "Velvet Forest",
+      "artist": "Prism",
+      "album": "Velvet Journeys",
+      "duration": 181,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-183/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "jazz",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 43,
+      "lastPlayed": "2026-03-25T17:17:59.982Z"
+    },
+    {
+      "id": "track-184",
+      "title": "Midnight Forest",
+      "artist": "Waveform",
+      "album": "Midnight Journeys",
+      "duration": 261,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-184/400/400",
+      "mood": [
+        "chill",
+        "focus"
+      ],
+      "genre": "jazz",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 41,
+      "lastPlayed": "2026-03-17T03:48:26.714Z"
+    },
+    {
+      "id": "track-185",
+      "title": "Crimson Echo",
+      "artist": "Calm Shores",
+      "album": "Crimson Journeys",
+      "duration": 236,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-185/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "techno",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 29,
+      "lastPlayed": "2026-03-13T16:08:14.126Z"
+    },
+    {
+      "id": "track-186",
+      "title": "Velvet Pulse",
+      "artist": "Waveform",
+      "album": "Velvet Journeys",
+      "duration": 199,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-186/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 15,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-187",
+      "title": "Azure Storm",
+      "artist": "Vortex",
+      "album": "Azure Journeys",
+      "duration": 231,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-187/400/400",
+      "mood": [
+        "focus",
+        "sad"
+      ],
+      "genre": "pop",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 38,
+      "lastPlayed": "2026-03-22T11:46:08.011Z"
+    },
+    {
+      "id": "track-188",
+      "title": "Sapphire Vision",
+      "artist": "Prism",
+      "album": "Sapphire Journeys",
+      "duration": 294,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-188/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "rock",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 9,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-189",
+      "title": "Wandering Vision",
+      "artist": "Neon Pulse",
+      "album": "Wandering Journeys",
+      "duration": 263,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-189/400/400",
+      "mood": [
+        "sad",
+        "party"
+      ],
+      "genre": "jazz",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-190",
+      "title": "Hidden Echo",
+      "artist": "Voltage",
+      "album": "Hidden Journeys",
+      "duration": 203,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-190/400/400",
+      "mood": [
+        "focus",
+        "hype"
+      ],
+      "genre": "electronic",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 18,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-191",
+      "title": "Dancing Ocean",
+      "artist": "Orbit",
+      "album": "Dancing Journeys",
+      "duration": 201,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-191/400/400",
+      "mood": [
+        "sad",
+        "chill"
+      ],
+      "genre": "classical",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 24,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-192",
+      "title": "Emerald Storm",
+      "artist": "Neon Pulse",
+      "album": "Emerald Journeys",
+      "duration": 238,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-192/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 32,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-193",
+      "title": "Electric Shadow",
+      "artist": "Lo-Fi Dreams",
+      "album": "Electric Journeys",
+      "duration": 273,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-193/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "ambient",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 15,
+      "lastPlayed": "2026-03-22T16:51:42.048Z"
+    },
+    {
+      "id": "track-194",
+      "title": "Neon Road",
+      "artist": "Vortex",
+      "album": "Neon Journeys",
+      "duration": 180,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-194/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "classical",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 1,
+      "lastPlayed": "2026-03-09T21:57:53.195Z"
+    },
+    {
+      "id": "track-195",
+      "title": "Obsidian Shadow",
+      "artist": "Cosmos",
+      "album": "Obsidian Journeys",
+      "duration": 225,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-195/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "lo-fi",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 7,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-196",
+      "title": "Wandering Storm",
+      "artist": "Orbit",
+      "album": "Wandering Journeys",
+      "duration": 257,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-196/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 10,
+      "lastPlayed": "2026-03-29T19:28:04.712Z"
+    },
+    {
+      "id": "track-197",
+      "title": "Emerald City",
+      "artist": "Orbit",
+      "album": "Emerald Journeys",
+      "duration": 219,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-197/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "techno",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 23,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-198",
+      "title": "Midnight Echo",
+      "artist": "Vortex",
+      "album": "Midnight Journeys",
+      "duration": 279,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-198/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 16,
+      "lastPlayed": "2026-03-19T09:30:21.511Z"
+    },
+    {
+      "id": "track-199",
+      "title": "Hidden Vibration",
+      "artist": "Orbit",
+      "album": "Hidden Journeys",
+      "duration": 231,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-199/400/400",
+      "mood": [
+        "chill",
+        "sleep"
+      ],
+      "genre": "lo-fi",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": "2026-03-20T03:44:58.354Z"
+    },
+    {
+      "id": "track-200",
+      "title": "Crimson Sky",
+      "artist": "Lo-Fi Dreams",
+      "album": "Crimson Journeys",
+      "duration": 287,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-200/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "ambient",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 43,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-201",
+      "title": "Crystal Forest",
+      "artist": "Vortex",
+      "album": "Crystal Journeys",
+      "duration": 234,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-201/400/400",
+      "mood": [
+        "hype",
+        "chill"
+      ],
+      "genre": "lo-fi",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 43,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-202",
+      "title": "Midnight Pulse",
+      "artist": "Lo-Fi Dreams",
+      "album": "Midnight Journeys",
+      "duration": 238,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-202/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "ambient",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 32,
+      "lastPlayed": "2026-03-02T17:06:23.847Z"
+    },
+    {
+      "id": "track-203",
+      "title": "Dancing Pulse",
+      "artist": "Frequency",
+      "album": "Dancing Journeys",
+      "duration": 209,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-203/400/400",
+      "mood": [
+        "party",
+        "sleep"
+      ],
+      "genre": "techno",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 29,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-204",
+      "title": "Sapphire Waves",
+      "artist": "Calm Shores",
+      "album": "Sapphire Journeys",
+      "duration": 289,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-204/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "lo-fi",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 0,
+      "lastPlayed": "2026-03-26T16:47:16.016Z"
+    },
+    {
+      "id": "track-205",
+      "title": "Dancing Waves",
+      "artist": "Prism",
+      "album": "Dancing Journeys",
+      "duration": 200,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-205/400/400",
+      "mood": [
+        "party",
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 36,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-206",
+      "title": "Wandering Ocean",
+      "artist": "Prism",
+      "album": "Wandering Journeys",
+      "duration": 275,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-206/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 23,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-207",
+      "title": "Emerald Vision",
+      "artist": "Vortex",
+      "album": "Emerald Journeys",
+      "duration": 251,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-207/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "electronic",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 5,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-208",
+      "title": "Hidden Road",
+      "artist": "Frequency",
+      "album": "Hidden Journeys",
+      "duration": 259,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-208/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 11,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-209",
+      "title": "Emerald Sky",
+      "artist": "Sunset Collective",
+      "album": "Emerald Journeys",
+      "duration": 275,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-209/400/400",
+      "mood": [
+        "party",
+        "sad"
+      ],
+      "genre": "techno",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 33,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-210",
+      "title": "Silent Storm",
+      "artist": "Cosmos",
+      "album": "Silent Journeys",
+      "duration": 243,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-210/400/400",
+      "mood": [
+        "hype",
+        "chill"
+      ],
+      "genre": "jazz",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 27,
+      "lastPlayed": "2026-03-02T16:26:13.649Z"
+    },
+    {
+      "id": "track-211",
+      "title": "Neon Forest",
+      "artist": "Neon Pulse",
+      "album": "Neon Journeys",
+      "duration": 236,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-211/400/400",
+      "mood": [
+        "morning",
+        "sleep"
+      ],
+      "genre": "electronic",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 37,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-212",
+      "title": "Obsidian Pulse",
+      "artist": "Vortex",
+      "album": "Obsidian Journeys",
+      "duration": 265,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-212/400/400",
+      "mood": [
+        "focus",
+        "hype"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 34,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-213",
+      "title": "Emerald Waves",
+      "artist": "Endorphin",
+      "album": "Emerald Journeys",
+      "duration": 206,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-213/400/400",
+      "mood": [
+        "morning",
+        "party"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 6,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-214",
+      "title": "Hidden Memory",
+      "artist": "Neon Pulse",
+      "album": "Hidden Journeys",
+      "duration": 238,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-214/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "indie",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 38,
+      "lastPlayed": "2026-03-14T01:57:31.284Z"
+    },
+    {
+      "id": "track-215",
+      "title": "Crystal Vision",
+      "artist": "Voltage",
+      "album": "Crystal Journeys",
+      "duration": 248,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-215/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 8,
+      "lastPlayed": "2026-03-26T09:52:08.639Z"
+    },
+    {
+      "id": "track-216",
+      "title": "Crystal Rhythm",
+      "artist": "Orbit",
+      "album": "Crystal Journeys",
+      "duration": 215,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-216/400/400",
+      "mood": [
+        "morning",
+        "focus"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 42,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-217",
+      "title": "Emerald Forest",
+      "artist": "Lo-Fi Dreams",
+      "album": "Emerald Journeys",
+      "duration": 252,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-217/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "ambient",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 19,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-218",
+      "title": "Crystal Rhythm",
+      "artist": "Cosmos",
+      "album": "Crystal Journeys",
+      "duration": 230,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-218/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "pop",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 48,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-219",
+      "title": "Azure Pulse",
+      "artist": "Cosmos",
+      "album": "Azure Journeys",
+      "duration": 294,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-219/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "techno",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 5,
+      "lastPlayed": "2026-03-28T01:28:28.267Z"
+    },
+    {
+      "id": "track-220",
+      "title": "Emerald Forest",
+      "artist": "Voltage",
+      "album": "Emerald Journeys",
+      "duration": 197,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-220/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "jazz",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 4,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-221",
+      "title": "Sapphire Vision",
+      "artist": "Cosmos",
+      "album": "Sapphire Journeys",
+      "duration": 196,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-221/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "pop",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 20,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-222",
+      "title": "Neon Pulse",
+      "artist": "Vortex",
+      "album": "Neon Journeys",
+      "duration": 216,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-222/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "synthwave",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 47,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-223",
+      "title": "Emerald Pulse",
+      "artist": "Voltage",
+      "album": "Emerald Journeys",
+      "duration": 244,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-223/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "classical",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 22,
+      "lastPlayed": "2026-03-12T10:38:57.414Z"
+    },
+    {
+      "id": "track-224",
+      "title": "Emerald Road",
+      "artist": "Cosmos",
+      "album": "Emerald Journeys",
+      "duration": 283,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-224/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "lo-fi",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 4,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-225",
+      "title": "Azure Waves",
+      "artist": "Voltage",
+      "album": "Azure Journeys",
+      "duration": 227,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-225/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 13,
+      "lastPlayed": "2026-03-15T13:12:39.298Z"
+    },
+    {
+      "id": "track-226",
+      "title": "Electric Memory",
+      "artist": "Cosmos",
+      "album": "Electric Journeys",
+      "duration": 217,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-226/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": true,
+      "playCount": 3,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-227",
+      "title": "Silent Vision",
+      "artist": "Vortex",
+      "album": "Silent Journeys",
+      "duration": 194,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-227/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-228",
+      "title": "Wandering Pulse",
+      "artist": "Sunset Collective",
+      "album": "Wandering Journeys",
+      "duration": 202,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-228/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "classical",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 35,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-229",
+      "title": "Golden Memory",
+      "artist": "Frequency",
+      "album": "Golden Journeys",
+      "duration": 217,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-229/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "electronic",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 35,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-230",
+      "title": "Luminous Shadow",
+      "artist": "Calm Shores",
+      "album": "Luminous Journeys",
+      "duration": 250,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-230/400/400",
+      "mood": [
+        "sleep",
+        "party"
+      ],
+      "genre": "synthwave",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-231",
+      "title": "Azure Memory",
+      "artist": "Frequency",
+      "album": "Azure Journeys",
+      "duration": 221,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-231/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 16,
+      "lastPlayed": "2026-03-16T09:35:35.126Z"
+    },
+    {
+      "id": "track-232",
+      "title": "Crystal Forest",
+      "artist": "Endorphin",
+      "album": "Crystal Journeys",
+      "duration": 191,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-232/400/400",
+      "mood": [
+        "focus",
+        "chill"
+      ],
+      "genre": "classical",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 23,
+      "lastPlayed": "2026-03-06T21:27:59.709Z"
+    },
+    {
+      "id": "track-233",
+      "title": "Midnight Rhythm",
+      "artist": "Endorphin",
+      "album": "Midnight Journeys",
+      "duration": 223,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-233/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "jazz",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 11,
+      "lastPlayed": "2026-03-29T22:42:50.102Z"
+    },
+    {
+      "id": "track-234",
+      "title": "Azure Rhythm",
+      "artist": "Voltage",
+      "album": "Azure Journeys",
+      "duration": 266,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-234/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 17,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-235",
+      "title": "Emerald Echo",
+      "artist": "Waveform",
+      "album": "Emerald Journeys",
+      "duration": 255,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-235/400/400",
+      "mood": [
+        "chill",
+        "hype"
+      ],
+      "genre": "jazz",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 27,
+      "lastPlayed": "2026-03-20T14:43:12.197Z"
+    },
+    {
+      "id": "track-236",
+      "title": "Silent Dream",
+      "artist": "Frequency",
+      "album": "Silent Journeys",
+      "duration": 241,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-236/400/400",
+      "mood": [
+        "focus",
+        "sleep"
+      ],
+      "genre": "techno",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 39,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-237",
+      "title": "Dancing Storm",
+      "artist": "Cosmos",
+      "album": "Dancing Journeys",
+      "duration": 290,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-237/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 10,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-238",
+      "title": "Obsidian Light",
+      "artist": "Orbit",
+      "album": "Obsidian Journeys",
+      "duration": 293,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-238/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 12,
+      "lastPlayed": "2026-03-17T06:59:39.161Z"
+    },
+    {
+      "id": "track-239",
+      "title": "Golden Light",
+      "artist": "Cosmos",
+      "album": "Golden Journeys",
+      "duration": 224,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-239/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-240",
+      "title": "Crimson Vision",
+      "artist": "Cosmos",
+      "album": "Crimson Journeys",
+      "duration": 202,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-240/400/400",
+      "mood": [
+        "focus",
+        "sad"
+      ],
+      "genre": "classical",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 26,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-241",
+      "title": "Emerald Memory",
+      "artist": "Sunset Collective",
+      "album": "Emerald Journeys",
+      "duration": 207,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-241/400/400",
+      "mood": [
+        "hype",
+        "chill"
+      ],
+      "genre": "jazz",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 2,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-242",
+      "title": "Crimson Vision",
+      "artist": "Waveform",
+      "album": "Crimson Journeys",
+      "duration": 265,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-242/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "classical",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 24,
+      "lastPlayed": "2026-03-02T15:03:24.672Z"
+    },
+    {
+      "id": "track-243",
+      "title": "Crimson Memory",
+      "artist": "Calm Shores",
+      "album": "Crimson Journeys",
+      "duration": 267,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-243/400/400",
+      "mood": [
+        "sleep",
+        "sad"
+      ],
+      "genre": "rock",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 34,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-244",
+      "title": "Azure Rhythm",
+      "artist": "Sunset Collective",
+      "album": "Azure Journeys",
+      "duration": 296,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-244/400/400",
+      "mood": [
+        "party",
+        "sleep"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 29,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-245",
+      "title": "Hidden City",
+      "artist": "Waveform",
+      "album": "Hidden Journeys",
+      "duration": 284,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-245/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "jazz",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 42,
+      "lastPlayed": "2026-03-27T06:37:12.148Z"
+    },
+    {
+      "id": "track-246",
+      "title": "Emerald Pulse",
+      "artist": "Endorphin",
+      "album": "Emerald Journeys",
+      "duration": 201,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-246/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "techno",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 38,
+      "lastPlayed": "2026-03-20T15:28:37.494Z"
+    },
+    {
+      "id": "track-247",
+      "title": "Neon Light",
+      "artist": "Orbit",
+      "album": "Neon Journeys",
+      "duration": 226,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-247/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "techno",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 13,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-248",
+      "title": "Dancing Light",
+      "artist": "Voltage",
+      "album": "Dancing Journeys",
+      "duration": 209,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-248/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "electronic",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 11,
+      "lastPlayed": "2026-03-04T01:16:11.555Z"
+    },
+    {
+      "id": "track-249",
+      "title": "Luminous Vibration",
+      "artist": "Calm Shores",
+      "album": "Luminous Journeys",
+      "duration": 243,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-249/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 49,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-250",
+      "title": "Neon Shadow",
+      "artist": "Endorphin",
+      "album": "Neon Journeys",
+      "duration": 225,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-250/400/400",
+      "mood": [
+        "morning",
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 47,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-251",
+      "title": "Hidden Rhythm",
+      "artist": "Cosmos",
+      "album": "Hidden Journeys",
+      "duration": 253,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-251/400/400",
+      "mood": [
+        "sleep",
+        "party"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 44,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-252",
+      "title": "Azure Light",
+      "artist": "Lo-Fi Dreams",
+      "album": "Azure Journeys",
+      "duration": 282,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-252/400/400",
+      "mood": [
+        "chill",
+        "hype"
+      ],
+      "genre": "pop",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 31,
+      "lastPlayed": "2026-03-23T10:05:45.035Z"
+    },
+    {
+      "id": "track-253",
+      "title": "Velvet Rhythm",
+      "artist": "Neon Pulse",
+      "album": "Velvet Journeys",
+      "duration": 212,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-253/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "indie",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 23,
+      "lastPlayed": "2026-03-21T08:49:17.174Z"
+    },
+    {
+      "id": "track-254",
+      "title": "Velvet Vision",
+      "artist": "Frequency",
+      "album": "Velvet Journeys",
+      "duration": 236,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-254/400/400",
+      "mood": [
+        "focus",
+        "morning"
+      ],
+      "genre": "ambient",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 12,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-255",
+      "title": "Electric Rhythm",
+      "artist": "Lo-Fi Dreams",
+      "album": "Electric Journeys",
+      "duration": 225,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-255/400/400",
+      "mood": [
+        "hype",
+        "chill"
+      ],
+      "genre": "classical",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 30,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-256",
+      "title": "Azure Vibration",
+      "artist": "Orbit",
+      "album": "Azure Journeys",
+      "duration": 191,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-256/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-257",
+      "title": "Crimson Rhythm",
+      "artist": "Cosmos",
+      "album": "Crimson Journeys",
+      "duration": 210,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-257/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "jazz",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 1,
+      "lastPlayed": "2026-03-01T04:30:44.592Z"
+    },
+    {
+      "id": "track-258",
+      "title": "Velvet Waves",
+      "artist": "Cosmos",
+      "album": "Velvet Journeys",
+      "duration": 246,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-258/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "jazz",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 10,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-259",
+      "title": "Neon Forest",
+      "artist": "Neon Pulse",
+      "album": "Neon Journeys",
+      "duration": 231,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-259/400/400",
+      "mood": [
+        "party",
+        "focus"
+      ],
+      "genre": "electronic",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 34,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-260",
+      "title": "Silent Storm",
+      "artist": "Voltage",
+      "album": "Silent Journeys",
+      "duration": 182,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-260/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "electronic",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 14,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-261",
+      "title": "Electric Memory",
+      "artist": "Sunset Collective",
+      "album": "Electric Journeys",
+      "duration": 197,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-261/400/400",
+      "mood": [
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 42,
+      "lastPlayed": "2026-03-15T11:56:56.984Z"
+    },
+    {
+      "id": "track-262",
+      "title": "Emerald Echo",
+      "artist": "Calm Shores",
+      "album": "Emerald Journeys",
+      "duration": 244,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-262/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "pop",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 28,
+      "lastPlayed": "2026-03-23T14:49:03.243Z"
+    },
+    {
+      "id": "track-263",
+      "title": "Electric Light",
+      "artist": "Voltage",
+      "album": "Electric Journeys",
+      "duration": 208,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-263/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "classical",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 32,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-264",
+      "title": "Obsidian Storm",
+      "artist": "Sunset Collective",
+      "album": "Obsidian Journeys",
+      "duration": 243,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-264/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 0,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-265",
+      "title": "Dancing Rhythm",
+      "artist": "Calm Shores",
+      "album": "Dancing Journeys",
+      "duration": 218,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-265/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "jazz",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 14,
+      "lastPlayed": "2026-03-02T23:16:49.871Z"
+    },
+    {
+      "id": "track-266",
+      "title": "Electric Shadow",
+      "artist": "Waveform",
+      "album": "Electric Journeys",
+      "duration": 234,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-266/400/400",
+      "mood": [
+        "party",
+        "chill"
+      ],
+      "genre": "techno",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 32,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-267",
+      "title": "Azure Shadow",
+      "artist": "Waveform",
+      "album": "Azure Journeys",
+      "duration": 299,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-267/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "lo-fi",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 12,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-268",
+      "title": "Neon City",
+      "artist": "Waveform",
+      "album": "Neon Journeys",
+      "duration": 244,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-268/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "rock",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-269",
+      "title": "Midnight Ocean",
+      "artist": "Lo-Fi Dreams",
+      "album": "Midnight Journeys",
+      "duration": 218,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-269/400/400",
+      "mood": [
+        "chill",
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 12,
+      "lastPlayed": "2026-03-01T13:57:10.514Z"
+    },
+    {
+      "id": "track-270",
+      "title": "Neon Shadow",
+      "artist": "Endorphin",
+      "album": "Neon Journeys",
+      "duration": 225,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-270/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "classical",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": "2026-03-12T23:26:27.912Z"
+    },
+    {
+      "id": "track-271",
+      "title": "Azure Road",
+      "artist": "Endorphin",
+      "album": "Azure Journeys",
+      "duration": 284,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-271/400/400",
+      "mood": [
+        "morning",
+        "sad"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 46,
+      "lastPlayed": "2026-03-26T13:39:46.721Z"
+    },
+    {
+      "id": "track-272",
+      "title": "Crystal Waves",
+      "artist": "Calm Shores",
+      "album": "Crystal Journeys",
+      "duration": 217,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-272/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "synthwave",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 11,
+      "lastPlayed": "2026-03-06T16:45:39.223Z"
+    },
+    {
+      "id": "track-273",
+      "title": "Crystal Waves",
+      "artist": "Neon Pulse",
+      "album": "Crystal Journeys",
+      "duration": 224,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-273/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "indie",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 27,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-274",
+      "title": "Wandering Vision",
+      "artist": "Frequency",
+      "album": "Wandering Journeys",
+      "duration": 283,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-274/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "techno",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 19,
+      "lastPlayed": "2026-03-07T02:55:29.666Z"
+    },
+    {
+      "id": "track-275",
+      "title": "Golden Waves",
+      "artist": "Sunset Collective",
+      "album": "Golden Journeys",
+      "duration": 247,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-275/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": "2026-03-14T14:16:26.214Z"
+    },
+    {
+      "id": "track-276",
+      "title": "Crystal Echo",
+      "artist": "Orbit",
+      "album": "Crystal Journeys",
+      "duration": 217,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-276/400/400",
+      "mood": [
+        "focus",
+        "morning"
+      ],
+      "genre": "ambient",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": "2026-03-15T21:02:48.838Z"
+    },
+    {
+      "id": "track-277",
+      "title": "Emerald City",
+      "artist": "Voltage",
+      "album": "Emerald Journeys",
+      "duration": 191,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-277/400/400",
+      "mood": [
+        "sleep",
+        "morning"
+      ],
+      "genre": "synthwave",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 24,
+      "lastPlayed": "2026-03-06T08:07:25.240Z"
+    },
+    {
+      "id": "track-278",
+      "title": "Obsidian City",
+      "artist": "Voltage",
+      "album": "Obsidian Journeys",
+      "duration": 181,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-278/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "electronic",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 16,
+      "lastPlayed": "2026-03-01T12:29:09.243Z"
+    },
+    {
+      "id": "track-279",
+      "title": "Emerald Vision",
+      "artist": "Voltage",
+      "album": "Emerald Journeys",
+      "duration": 218,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-279/400/400",
+      "mood": [
+        "morning",
+        "chill"
+      ],
+      "genre": "indie",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 45,
+      "lastPlayed": "2026-03-05T04:42:03.552Z"
+    },
+    {
+      "id": "track-280",
+      "title": "Electric Vision",
+      "artist": "Prism",
+      "album": "Electric Journeys",
+      "duration": 185,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-280/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "ambient",
+      "year": 2021,
+      "favorite": true,
+      "playCount": 47,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-281",
+      "title": "Midnight City",
+      "artist": "Cosmos",
+      "album": "Midnight Journeys",
+      "duration": 221,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-281/400/400",
+      "mood": [
+        "party",
+        "sleep"
+      ],
+      "genre": "synthwave",
+      "year": 2021,
+      "favorite": false,
+      "playCount": 42,
+      "lastPlayed": "2026-03-25T14:57:09.399Z"
+    },
+    {
+      "id": "track-282",
+      "title": "Velvet Sky",
+      "artist": "Voltage",
+      "album": "Velvet Journeys",
+      "duration": 219,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-282/400/400",
+      "mood": [
+        "chill",
+        "morning"
+      ],
+      "genre": "synthwave",
+      "year": 2024,
+      "favorite": true,
+      "playCount": 19,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-283",
+      "title": "Electric Shadow",
+      "artist": "Sunset Collective",
+      "album": "Electric Journeys",
+      "duration": 287,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-283/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "lo-fi",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 2,
+      "lastPlayed": "2026-03-01T07:03:08.274Z"
+    },
+    {
+      "id": "track-284",
+      "title": "Dancing Echo",
+      "artist": "Cosmos",
+      "album": "Dancing Journeys",
+      "duration": 273,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-284/400/400",
+      "mood": [
+        "hype",
+        "party"
+      ],
+      "genre": "rock",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 2,
+      "lastPlayed": "2026-03-11T06:28:16.431Z"
+    },
+    {
+      "id": "track-285",
+      "title": "Crimson Pulse",
+      "artist": "Lo-Fi Dreams",
+      "album": "Crimson Journeys",
+      "duration": 290,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-285/400/400",
+      "mood": [
+        "sad"
+      ],
+      "genre": "lo-fi",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 21,
+      "lastPlayed": "2026-03-24T09:33:28.686Z"
+    },
+    {
+      "id": "track-286",
+      "title": "Dancing Road",
+      "artist": "Calm Shores",
+      "album": "Dancing Journeys",
+      "duration": 239,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "https://picsum.photos/seed/track-286/400/400",
+      "mood": [
+        "hype"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 1,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-287",
+      "title": "Obsidian Vision",
+      "artist": "Voltage",
+      "album": "Obsidian Journeys",
+      "duration": 248,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "cover": "https://picsum.photos/seed/track-287/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "rock",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 17,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-288",
+      "title": "Velvet Waves",
+      "artist": "Vortex",
+      "album": "Velvet Journeys",
+      "duration": 274,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "cover": "https://picsum.photos/seed/track-288/400/400",
+      "mood": [
+        "sad",
+        "chill"
+      ],
+      "genre": "synthwave",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 33,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-289",
+      "title": "Hidden Road",
+      "artist": "Vortex",
+      "album": "Hidden Journeys",
+      "duration": 207,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "cover": "https://picsum.photos/seed/track-289/400/400",
+      "mood": [
+        "hype",
+        "sad"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 25,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-290",
+      "title": "Crimson City",
+      "artist": "Calm Shores",
+      "album": "Crimson Journeys",
+      "duration": 208,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "cover": "https://picsum.photos/seed/track-290/400/400",
+      "mood": [
+        "party"
+      ],
+      "genre": "pop",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 27,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-291",
+      "title": "Emerald Ocean",
+      "artist": "Calm Shores",
+      "album": "Emerald Journeys",
+      "duration": 272,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "cover": "https://picsum.photos/seed/track-291/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "pop",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 26,
+      "lastPlayed": "2026-03-23T21:19:48.526Z"
+    },
+    {
+      "id": "track-292",
+      "title": "Azure Road",
+      "artist": "Endorphin",
+      "album": "Azure Journeys",
+      "duration": 259,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "cover": "https://picsum.photos/seed/track-292/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "techno",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 33,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-293",
+      "title": "Golden Dream",
+      "artist": "Lo-Fi Dreams",
+      "album": "Golden Journeys",
+      "duration": 188,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "cover": "https://picsum.photos/seed/track-293/400/400",
+      "mood": [
+        "sad",
+        "sleep"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 2,
+      "lastPlayed": "2026-03-16T05:26:06.163Z"
+    },
+    {
+      "id": "track-294",
+      "title": "Sapphire Shadow",
+      "artist": "Cosmos",
+      "album": "Sapphire Journeys",
+      "duration": 201,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "cover": "https://picsum.photos/seed/track-294/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "techno",
+      "year": 2022,
+      "favorite": false,
+      "playCount": 10,
+      "lastPlayed": "2026-03-01T11:11:23.176Z"
+    },
+    {
+      "id": "track-295",
+      "title": "Obsidian City",
+      "artist": "Prism",
+      "album": "Obsidian Journeys",
+      "duration": 244,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "cover": "https://picsum.photos/seed/track-295/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "ambient",
+      "year": 2024,
+      "favorite": false,
+      "playCount": 14,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-296",
+      "title": "Obsidian Vision",
+      "artist": "Cosmos",
+      "album": "Obsidian Journeys",
+      "duration": 249,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+      "cover": "https://picsum.photos/seed/track-296/400/400",
+      "mood": [
+        "sleep"
+      ],
+      "genre": "indie",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 33,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-297",
+      "title": "Azure Waves",
+      "artist": "Sunset Collective",
+      "album": "Azure Journeys",
+      "duration": 254,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+      "cover": "https://picsum.photos/seed/track-297/400/400",
+      "mood": [
+        "chill"
+      ],
+      "genre": "pop",
+      "year": 2023,
+      "favorite": false,
+      "playCount": 7,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-298",
+      "title": "Velvet Echo",
+      "artist": "Orbit",
+      "album": "Velvet Journeys",
+      "duration": 258,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+      "cover": "https://picsum.photos/seed/track-298/400/400",
+      "mood": [
+        "focus"
+      ],
+      "genre": "pop",
+      "year": 2022,
+      "favorite": true,
+      "playCount": 23,
+      "lastPlayed": null
+    },
+    {
+      "id": "track-299",
+      "title": "Velvet Light",
+      "artist": "Sunset Collective",
+      "album": "Velvet Journeys",
+      "duration": 221,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "cover": "https://picsum.photos/seed/track-299/400/400",
+      "mood": [
+        "sad",
+        "sleep"
+      ],
+      "genre": "lo-fi",
+      "year": 2020,
+      "favorite": true,
+      "playCount": 29,
+      "lastPlayed": "2026-03-13T17:54:31.547Z"
+    },
+    {
+      "id": "track-300",
+      "title": "Emerald Echo",
+      "artist": "Prism",
+      "album": "Emerald Journeys",
+      "duration": 220,
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "https://picsum.photos/seed/track-300/400/400",
+      "mood": [
+        "sad",
+        "morning"
+      ],
+      "genre": "rock",
+      "year": 2020,
+      "favorite": false,
+      "playCount": 25,
+      "lastPlayed": "2026-03-10T22:31:23.227Z"
+    }
+  ]
+}

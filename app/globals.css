@@ -1,26 +1,434 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ========================================
+   THEME SYSTEM — CSS Custom Properties
+   ======================================== */
+
+:root,
+[data-theme="dark"] {
+  --bg-primary: rgba(13, 13, 13, 0.7);
+  --bg-secondary: rgba(26, 26, 26, 0.5);
+  --bg-tertiary: rgba(37, 37, 37, 0.4);
+  --bg-glass: rgba(255, 255, 255, 0.08);
+  --text-primary: #f5f5f5;
+  --text-secondary: #cccccc;
+  --text-muted: #888888;
+  --accent: #E8593C;
+  --accent-hover: rgba(232, 89, 60, 0.8);
+  --accent-subtle: rgba(232, 89, 60, 0.15);
+  --border: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.15);
+  --player-bg: rgba(13, 13, 13, 0.92);
+  --shadow: rgba(0, 0, 0, 0.5);
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --success: #5CAD8A;
+  --warning: #F7B731;
+  --error: #E8593C;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+[data-theme="light"] {
+  --bg-primary: rgba(248, 248, 248, 0.85);
+  --bg-secondary: rgba(255, 255, 255, 0.6);
+  --bg-tertiary: rgba(238, 238, 238, 0.5);
+  --bg-glass: rgba(0, 0, 0, 0.06);
+  --text-primary: #1a1a1a;
+  --text-secondary: #444444;
+  --text-muted: #888888;
+  --accent: #E8593C;
+  --accent-hover: rgba(232, 89, 60, 0.85);
+  --accent-subtle: rgba(232, 89, 60, 0.1);
+  --border: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.15);
+  --player-bg: rgba(255, 255, 255, 0.92);
+  --shadow: rgba(0, 0, 0, 0.15);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+[data-theme="amoled"] {
+  --bg-primary: rgba(0, 0, 0, 0.75);
+  --bg-secondary: rgba(10, 10, 10, 0.55);
+  --bg-tertiary: rgba(20, 20, 20, 0.45);
+  --bg-glass: rgba(255, 255, 255, 0.08);
+  --text-primary: #ffffff;
+  --text-secondary: #cccccc;
+  --text-muted: #777777;
+  --accent: #E8593C;
+  --accent-hover: rgba(232, 89, 60, 0.8);
+  --accent-subtle: rgba(232, 89, 60, 0.12);
+  --border: rgba(255, 255, 255, 0.06);
+  --border-strong: rgba(255, 255, 255, 0.1);
+  --player-bg: rgba(0, 0, 0, 0.96);
+  --shadow: rgba(0, 0, 0, 0.8);
+}
+
+/* ========================================
+   BASE STYLES
+   ======================================== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+/* Immersive background image */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image: url('/images/vibereddy-logo.png');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.15;
+  filter: blur(4px);
+  pointer-events: none;
+}
+
+/* Subtle noise texture overlay */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+}
+
+/* ========================================
+   SCROLLBAR
+   ======================================== */
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* ========================================
+   GLASSMORPHISM UTILITY
+   ======================================== */
+
+.glass {
+  background: var(--bg-glass);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--border);
+}
+
+.glass-strong {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(40px);
+  -webkit-backdrop-filter: blur(40px);
+  border: 1px solid var(--border-strong);
+}
+
+/* ========================================
+   ANIMATIONS
+   ======================================== */
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 20px rgba(232, 89, 60, 0.3); }
+  50% { box-shadow: 0 0 40px rgba(232, 89, 60, 0.6); }
+}
+
+@keyframes eq-bar-1 {
+  0%, 100% { height: 30%; }
+  25% { height: 80%; }
+  50% { height: 50%; }
+  75% { height: 90%; }
+}
+
+@keyframes eq-bar-2 {
+  0%, 100% { height: 50%; }
+  25% { height: 40%; }
+  50% { height: 90%; }
+  75% { height: 60%; }
+}
+
+@keyframes eq-bar-3 {
+  0%, 100% { height: 70%; }
+  25% { height: 30%; }
+  50% { height: 60%; }
+  75% { height: 80%; }
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(100%); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ========================================
+   EQ BARS
+   ======================================== */
+
+.eq-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 16px;
+}
+
+.eq-bar {
+  width: 3px;
+  border-radius: 1px;
+  background: var(--accent);
+}
+
+.eq-bar:nth-child(1) { animation: eq-bar-1 0.8s ease-in-out infinite; }
+.eq-bar:nth-child(2) { animation: eq-bar-2 0.6s ease-in-out infinite; }
+.eq-bar:nth-child(3) { animation: eq-bar-3 0.7s ease-in-out infinite; }
+
+.eq-bars.paused .eq-bar {
+  animation-play-state: paused;
+  height: 30%;
+}
+
+/* ========================================
+   BUTTON STYLES
+   ======================================== */
+
+.btn-control {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  cursor: pointer;
+  padding: 8px;
+  border-radius: var(--radius-sm);
+  transition: all 0.15s ease;
+}
+
+.btn-control:hover {
+  background: var(--bg-glass);
+  color: var(--accent);
+}
+
+.btn-control:active {
+  transform: scale(0.95);
+}
+
+.btn-control.active {
+  color: var(--accent);
+}
+
+.btn-control-sm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: var(--radius-sm);
+  transition: all 0.15s ease;
+}
+
+.btn-control-sm:hover {
+  background: var(--bg-glass);
+  color: var(--accent);
+}
+
+.btn-control-sm.active {
+  color: var(--accent);
+  background: var(--accent-subtle);
+}
+
+.btn-play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--accent);
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: all 0.2s ease;
+}
+
+.btn-play:hover {
+  background: var(--accent-hover);
+  transform: scale(1.05);
+}
+
+.btn-play:active {
+  transform: scale(0.95);
+}
+
+/* ========================================
+   PROGRESS / SEEK BAR
+   ======================================== */
+
+.seek-bar {
+  position: relative;
+  width: 100%;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  cursor: pointer;
+  transition: height 0.15s ease;
+}
+
+.seek-bar:hover {
+  height: 6px;
+}
+
+.seek-bar-fill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background: var(--accent);
+  border-radius: 2px;
+  transition: width 0.1s linear;
+}
+
+.seek-bar-thumb {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 12px;
+  height: 12px;
+  background: var(--accent);
+  border-radius: 50%;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  box-shadow: 0 0 8px var(--shadow);
+}
+
+.seek-bar:hover .seek-bar-thumb {
+  opacity: 1;
+}
+
+/* ========================================
+   MOOD PILLS
+   ======================================== */
+
+.mood-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 500;
+  border: 1px solid var(--border);
+  background: var(--bg-glass);
+  color: var(--text-secondary);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.mood-pill:hover {
+  border-color: var(--border-strong);
+  background: var(--bg-tertiary);
+}
+
+.mood-pill.active {
+  color: white;
+  border-color: transparent;
+}
+
+/* ========================================
+   CONTEXT MENU
+   ======================================== */
+
+.context-menu {
+  position: fixed;
+  z-index: 100;
+  min-width: 180px;
+  padding: 6px;
+  border-radius: var(--radius-md);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-strong);
+  box-shadow: 0 16px 48px var(--shadow);
+  animation: fade-in 0.15s ease;
+}
+
+.context-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.1s ease;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+}
+
+.context-menu-item:hover {
+  background: var(--bg-glass);
+  color: var(--text-primary);
+}
+
+.context-menu-separator {
+  height: 1px;
+  background: var(--border);
+  margin: 4px 0;
+}
+
+/* ========================================
+   UTILITY CLASSES
+   ======================================== */
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.no-select {
+  user-select: none;
+  -webkit-user-select: none;
 }

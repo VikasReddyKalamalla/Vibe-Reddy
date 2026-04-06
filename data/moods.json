@@ -1,0 +1,60 @@
+{
+  "moods": [
+    {
+      "id": "focus",
+      "label": "Focus",
+      "description": "Deep work, no distractions",
+      "color": "#4A90E2",
+      "icon": "🎯",
+      "trackIds": ["track-001", "track-004"]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "description": "Relaxed vibes",
+      "color": "#5CAD8A",
+      "icon": "🌿",
+      "trackIds": ["track-001", "track-002", "track-004", "track-005"]
+    },
+    {
+      "id": "hype",
+      "label": "Hype",
+      "description": "Get pumped up",
+      "color": "#E8593C",
+      "icon": "🔥",
+      "trackIds": ["track-003", "track-006", "track-008"]
+    },
+    {
+      "id": "sad",
+      "label": "Sad",
+      "description": "In your feelings",
+      "color": "#7B68EE",
+      "icon": "🌧️",
+      "trackIds": ["track-007"]
+    },
+    {
+      "id": "sleep",
+      "label": "Sleep",
+      "description": "Drift off peacefully",
+      "color": "#2C2C54",
+      "icon": "🌙",
+      "trackIds": ["track-002", "track-007"]
+    },
+    {
+      "id": "party",
+      "label": "Party",
+      "description": "Turn it up",
+      "color": "#FF6B6B",
+      "icon": "🎉",
+      "trackIds": ["track-003", "track-006"]
+    },
+    {
+      "id": "morning",
+      "label": "Morning",
+      "description": "Fresh start energy",
+      "color": "#F7B731",
+      "icon": "☀️",
+      "trackIds": ["track-005", "track-008"]
+    }
+  ]
+}

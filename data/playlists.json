@@ -1,0 +1,28 @@
+{
+  "playlists": [
+    {
+      "id": "playlist-001",
+      "name": "Late Night Coding",
+      "description": "For those 2am sessions",
+      "cover": "/covers/playlist-001.jpg",
+      "trackIds": ["track-001", "track-004", "track-007"],
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "playlist-002",
+      "name": "Morning Energy",
+      "description": "Start your day right",
+      "cover": "/covers/playlist-002.jpg",
+      "trackIds": ["track-005", "track-008", "track-003"],
+      "createdAt": "2024-02-20"
+    },
+    {
+      "id": "playlist-003",
+      "name": "Weekend Vibes",
+      "description": "Chill weekend tunes",
+      "cover": "/covers/playlist-003.jpg",
+      "trackIds": ["track-002", "track-005", "track-006", "track-001"],
+      "createdAt": "2024-03-10"
+    }
+  ]
+}
